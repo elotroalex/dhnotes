@@ -496,6 +496,8 @@ comparative research.
 
 [**Journal of Cultural Analytics**](http://culturalanalytics.org/) is a new open-access journal dedicated to the computational study of culture. Its aim is to promote high quality scholarship that intervenes in contemporary debates about the study of culture using computational and quantitative methods.
 
+[**Journal for Data Arts**](http://www.newschool.edu/center-for-data-arts/journal-for-data-arts/) is a quarterly journal dedicated to the disciplines of data science, art, and design. JDA seek submissions from scholars, practitioners, artists, journalists, and critics who produce work that captures the experimental nature of the data arts and sciences in new and exciting ways.
+
 [**Journal of Data Mining and Digital
 Humanities**](http://jdmdh.episciences.org/) is concerned with the intersection
 of computing and the disciplines of the humanities, with tools provided by
